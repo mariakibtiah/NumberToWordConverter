@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|c:\\users\\mm06\\source\\repos\\numbertowordconverter\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|c:\\users\\mm06\\source\\repos\\numbertowordconverter\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|c:\\users\\mm06\\source\\repos\\numbertowordconverter\\numbertowordconverter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|solutionrelative:numbertowordconverter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|c:\\users\\mm06\\source\\repos\\numbertowordconverter\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|c:\\users\\mm06\\source\\repos\\numbertowordconverter\\views\\home\\successconvert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|solutionrelative:views\\home\\successconvert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|c:\\users\\mm06\\source\\repos\\numbertowordconverter\\views\\home\\failedconvert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|solutionrelative:views\\home\\failedconvert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|c:\\users\\mm06\\source\\repos\\numbertowordconverter\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|c:\\users\\mm06\\source\\repos\\numbertowordconverter\\models\\numberconvertermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|solutionrelative:models\\numberconvertermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B20B26-66D9-4C92-888A-0524F090C332}|..\\NumberToWordConverterTests\\NumberToWordConverterTests.csproj|c:\\users\\mm06\\source\\repos\\numbertowordconvertertests\\service\\core\\numberconverterservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|c:\\users\\mm06\\source\\repos\\numbertowordconverter\\service\\numberconverterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|solutionrelative:service\\numberconverterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|c:\\users\\mm06\\source\\repos\\numbertowordconverter\\views\\shared\\successconvert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|solutionrelative:views\\shared\\successconvert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|c:\\users\\mm06\\source\\repos\\numbertowordconverter\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|c:\\users\\mm06\\source\\repos\\numbertowordconverter\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B4E731F-5E6F-4EB1-9269-42DDB8A79D18}|NumberToWordConverter.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-16T05:18:13.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:17:31.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumberToWordConverter",
+              "DocumentMoniker": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\NumberToWordConverter.csproj",
+              "RelativeDocumentMoniker": "NumberToWordConverter.csproj",
+              "ToolTip": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\NumberToWordConverter.csproj",
+              "RelativeToolTip": "NumberToWordConverter.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T05:13:32.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SuccessConvert.cshtml",
+              "DocumentMoniker": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\Views\\Home\\SuccessConvert.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\SuccessConvert.cshtml",
+              "ToolTip": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\Views\\Home\\SuccessConvert.cshtml",
+              "RelativeToolTip": "Views\\Home\\SuccessConvert.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T05:12:12.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FailedConvert.cshtml",
+              "DocumentMoniker": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\Views\\Home\\FailedConvert.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\FailedConvert.cshtml",
+              "ToolTip": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\Views\\Home\\FailedConvert.cshtml",
+              "RelativeToolTip": "Views\\Home\\FailedConvert.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T04:36:26.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T02:28:05.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SuccessConvert.cshtml",
+              "DocumentMoniker": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\Views\\Shared\\SuccessConvert.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\SuccessConvert.cshtml",
+              "ToolTip": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\Views\\Shared\\SuccessConvert.cshtml",
+              "RelativeToolTip": "Views\\Shared\\SuccessConvert.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T04:33:26.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T04:12:31.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NumberConverterModel.cs",
+              "DocumentMoniker": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\Models\\NumberConverterModel.cs",
+              "RelativeDocumentMoniker": "Models\\NumberConverterModel.cs",
+              "ToolTip": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\Models\\NumberConverterModel.cs",
+              "RelativeToolTip": "Models\\NumberConverterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:15:49.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NumberConverterServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverterTests\\service\\core\\NumberConverterServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\NumberToWordConverterTests\\service\\core\\NumberConverterServiceTests.cs",
+              "ToolTip": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverterTests\\service\\core\\NumberConverterServiceTests.cs",
+              "RelativeToolTip": "..\\NumberToWordConverterTests\\service\\core\\NumberConverterServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:31:29.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:24:37.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NumberConverterService.cs",
+              "DocumentMoniker": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\service\\NumberConverterService.cs",
+              "RelativeDocumentMoniker": "service\\NumberConverterService.cs",
+              "ToolTip": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\service\\NumberConverterService.cs",
+              "RelativeToolTip": "service\\NumberConverterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:02:29.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\mm06\\source\\repos\\NumberToWordConverter\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T04:25:15.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
